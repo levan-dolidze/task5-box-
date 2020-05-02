@@ -1,0 +1,42 @@
+.item
+{
+    
+    margin: auto;
+
+
+}
+
+
+.flexbox
+{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    flex-direction: row;
+    margin: 50px;
+}
+
+
+
+#item1,#item2,#item3,#item4,#item5,#item6,#item7,#item8 {
+    
+    
+    width: 25%;
+   
+    
+}
+
+
+
+
+.flexbox2{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: stretch;
+    flex-direction: row;
+    margin: 50px;
+
+}
+
+
+
